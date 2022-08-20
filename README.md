@@ -1,6 +1,6 @@
 # Kaggle Competitions
 # Проект 3. [SF-DST] Booking reviews
-![alt tag](https://github.com/Motoborg/Kaggle_Project_3_Hotels/blob/main/Bike2.gif)
+
 ## Оглавление  
 <a name="Оглавление"></a>
 [1. Описание проекта](#Описание-проекта)  
@@ -58,3 +58,5 @@ https://www.kaggle.com/code/motoborgrus/proj-3-hotels/edit/run/103728182
 Получил первый опыт работы с ML моделями. Не совсем красиво оформил мультиколлинеарность, но уже и так затянул с опытами отправляю на проверку.
 
 :arrow_up:[к оглавлению](#Оглавление)
+
+![alt tag](https://github.com/Motoborg/Kaggle_Project_3_Hotels/blob/main/Bike2.gif)
