@@ -1,6 +1,6 @@
 # Kaggle Competitions
 # Проект 3. [SF-DST] Booking reviews
-
+![alt tag](https://github.com/Motoborg/Kaggle_Project_3_Hotels/blob/main/Bike2.gif)
 ## Оглавление  
 <a name="Оглавление"></a>
 [1. Описание проекта](#Описание-проекта)  
