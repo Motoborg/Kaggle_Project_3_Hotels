@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/Motoborg/Kaggle_Project_3_Hotels/blob/main/Bike2.gif)" width="100"/>
-</div>
+![alt tag](https://github.com/Motoborg/Kaggle_Project_3_Hotels/blob/main/Bike2.gif)
 
 # Kaggle Competitions
 # Проект 3. [SF-DST] Booking reviews
@@ -62,5 +60,3 @@ https://www.kaggle.com/code/motoborgrus/proj-3-hotels/edit/run/103728182
 Получил первый опыт работы с ML моделями. Не совсем красиво оформил мультиколлинеарность, но уже и так затянул с опытами отправляю на проверку.
 
 :arrow_up:[к оглавлению](#Оглавление)
-
-![alt tag](https://github.com/Motoborg/Kaggle_Project_3_Hotels/blob/main/Bike2.gif)
