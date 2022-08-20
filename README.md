@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/Motoborg/Kaggle_Project_3_Hotels/blob/main/Bike2.gif)" width="100"/>
+</div>
 # Kaggle Competitions
 # Проект 3. [SF-DST] Booking reviews
 
